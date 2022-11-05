@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rileyrinku" target="blank"><img src="https://img.shields.io/twitter/follow/rileyrinku?logo=twitter&style=for-the-badge" alt="rileyrinku" /></a> </p>
 
-- 🔭 I’m currently working on **Dot Note**
+- 🔭 I’m currently working on **College Library**
 
 - 🌱 I’m currently learning **Java Script**
 
