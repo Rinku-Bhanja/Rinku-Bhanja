@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java Script**
 
-- 💬 Ask me about **Html,Css,Java**
+- 💬 Ask me about **Html,Css,Java,JavaScript**
 
 - 📫 How to reach me **bhanjarinku637@gmail.com**
 
