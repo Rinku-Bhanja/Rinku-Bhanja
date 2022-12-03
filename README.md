@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **News Box**
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **React Js**
 
 - 💬 Ask me about **Html,Css,Java,JavaScript**
 
