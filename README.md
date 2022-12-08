@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinkubhanja&label=Profile%20views&color=0e75b6&style=flat" alt="rinkubhanja" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rinku_bhanja" target="blank"><img src="https://img.shields.io/twitter/follow/rileyrinku?logo=twitter&style=for-the-badge" alt="rinku_bhanja" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rinku_bhanja" target="blank"><img src="https://img.shields.io/twitter/follow/rinku_bhanja?logo=twitter&style=for-the-badge" alt="rinku_bhanja" /></a> </p>
 
 - 🔭 I’m currently working on **News Box**
 
@@ -16,7 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rileyrinku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rileyrinku" height="30" width="40" /></a>
+<a href="https://twitter.com/rinku_bhanja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rinku_bhanja[git modification.txt](https://github.com/Rinku-Bhanja/Rinku-Bhanja/files/10186272/git.modification.txt)
+" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rinku-bhanja-b128b4210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rinku-bhanja-b128b4210" height="30" width="40" /></a>
 <a href="https://fb.com/rinkubhanja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rinkubhanja" height="30" width="40" /></a>
 <a href="https://instagram.com/therinku_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="therinku_b" height="30" width="40" /></a>
