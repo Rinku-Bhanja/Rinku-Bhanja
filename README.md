@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rinku_bhanja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rinku_bhanja" height="30" width="40" /></a>
+<a href="https://twitter.com/rinku_bhanja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rinku_bhanja/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rinku_bhanja" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rinku-bhanja-b128b4210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rinku-bhanja-b128b4210" height="30" width="40" /></a>
 <a href="https://fb.com/rinkubhanja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rinkubhanja" height="30" width="40" /></a>
 <a href="https://instagram.com/therinku_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="therinku_b" height="30" width="40" /></a>
