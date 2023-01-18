@@ -31,3 +31,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rinku-bhanja&show_icons=true&locale=en" alt="rinku-bhanja" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinku-bhanja&" alt="rinku-bhanja" /></p>
+
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rinku-bhanja&&theme=xcode)](https://github.com/rinku-bhanja)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rinku-bhanja&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rinku-bhanja" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rinku-bhanja&show_icons=true&locale=en&theme=tokyonight" alt="rinku-bhanja" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinku-bhanja&&theme=tokyonight" alt="rinku-bhanja" /></p>
